@@ -1,2 +1,3 @@
 # hello-world
-Getting started with GitHub
+
+This is a test repository to walk through the GitHub version control process. This is my first edit!
